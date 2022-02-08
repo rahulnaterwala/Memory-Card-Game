@@ -1,14 +1,3 @@
-/*
-CMPT 125 Assignment 4 gameObjects.c
-Author: Rahul Naterwala
-Student ID: 301410108
-SFU email: rna24@sfu.ca
-Academic honesty statement: I hereby confirm that this is my own work and I
-have not violated any of SFU’s Code of Academic Integrity and Good Conduct
-(S10.01).
-Description: Create functions that match that in gameObjects.h
-*/
-
 #include "gameObjects.h"
 
 void initializeDeck(Deck* theDeck, char* brandName){
