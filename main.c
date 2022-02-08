@@ -1,16 +1,3 @@
-/*
-CMPT 125 Assignment 4 Game
-Author: Rahul Naterwala
-Student ID: 301410108
-SFU email: rna24@sfu.ca
-Academic honesty statement: I hereby confirm that this is my own work and I
-have not violated any of SFU’s Code of Academic Integrity and Good Conduct
-(S10.01).
-Description: This is the source code for the game. In implements the main
-function that is the driver of the program. In also includes a clear function
-that attemps to "push" the face up print up beyond the screen.
-*/
-
 #include <stdio.h>
 #include <stdlib.h> //for the use of system and srand and rand
 #include "gameObjects.h"
